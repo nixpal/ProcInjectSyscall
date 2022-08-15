@@ -7,6 +7,7 @@
 
 ### INFO
 
+- All SYSCALL numbers used in the shellcode are for the latest 3 Windows 10 builds. They all use the same SYSCALL numbers.
 - The C file is used to execute the complete shellcode by injecting meterpreter into a process called CrypTool.exe
 - If you want a different process, please change the string accordingly in the inline assembly.
 - The complete sandwiched shellcode is separated in three chunks to make it easy for you to modify the meterpreter part.
