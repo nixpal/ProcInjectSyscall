@@ -1,5 +1,6 @@
 # Process Injection using Windows SYSCALLS
 ## Presented at D3FC0N 30
+## Author: Tarek Abdelmotaleb @Nixpal
 
 <img width="600" height="300" alt="dBi" src="https://github.com/nixpal/ProcInjectSyscall/blob/main/defcon.jpg">
 
